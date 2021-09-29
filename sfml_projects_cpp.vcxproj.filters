@@ -21,6 +21,9 @@
     <ClCompile Include="Rectangle_movement.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="catch_enemies.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Ball_movement.cpp">

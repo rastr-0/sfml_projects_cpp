@@ -1,7 +1,7 @@
 /*
 	In this project I've made a simple ball's movement, 
 	it's a kind of simple simulation of rebound of the ball.
-																	*/
+																*/
 
 #include <SFML/Graphics.hpp>
 #include <SFML/Window.hpp>

@@ -1,6 +1,8 @@
-/* I've made simple shooter. You can shoot in your enemies and kill them.
+/* 
+		I've made simple shooter. You can shoot in your enemies and kill them.
 	I also delete bullets and enemies which are out of the screen.
-	Later I'm going to make score count and remake enemies with using textures*/
+	Later I'm going to make score count and remake enemies with using textures
+																				*/
 
 #include <iostream>
 #include <ctime>
