@@ -24,6 +24,9 @@
     <ClCompile Include="catch_enemies.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="catch_enemies_with_textures.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Ball_movement.cpp">

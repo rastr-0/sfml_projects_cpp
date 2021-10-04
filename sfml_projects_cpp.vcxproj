@@ -142,6 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="catch_enemies_with_textures.cpp" />
     <ClCompile Include="Rectangle_movement.cpp" />
     <ClCompile Include="Simple_shooter.cpp" />
     <ClCompile Include="catch_enemies.cpp" />

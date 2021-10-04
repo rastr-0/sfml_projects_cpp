@@ -41,7 +41,7 @@ int main() {
 		if (enemies_timer < 80)
 			enemies_timer++;
 		else if (enemies_timer == 80) {
-			enemy.setPosition(Vector2f(300, rand() % static_cast<int> (window.getSize().y - enemy.getSize().y)));
+			enemy.setPosition(Vector2f(window.getSize().x + enemy.getSize().x, rand() % static_cast<int> (window.getSize().y - enemy.getSize().y - 10)));
 			enemies.push_back(enemy);
 			enemies_timer = 0;
 		}
