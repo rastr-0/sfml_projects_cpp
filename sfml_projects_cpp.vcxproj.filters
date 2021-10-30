@@ -30,6 +30,9 @@
     <ClCompile Include="360_degree_shooter.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="dvd_bouncing.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Ball_movement.cpp">

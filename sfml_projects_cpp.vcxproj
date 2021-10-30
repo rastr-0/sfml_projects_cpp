@@ -147,6 +147,7 @@
     <ClCompile Include="Simple_shooter.cpp" />
     <ClCompile Include="catch_enemies.cpp" />
     <ClCompile Include="360_degree_shooter.cpp" />
+    <ClCompile Include="dvd_bouncing.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Ball_movement.cpp" />
