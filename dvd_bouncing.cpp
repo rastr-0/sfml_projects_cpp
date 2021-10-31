@@ -37,7 +37,7 @@ void dvd::move_dvd() {
 	y += y_speed;
 }
 void dvd::set_color() {
-	int random = 1 + rand() % 3;
+	int random = 0 + rand() % 3;
 	// this condition is for not creating same colors
 	if (dvd_sprite.getColor() == colors[random]){
 		if (random < 3)
